@@ -1,7 +1,7 @@
 Project: weblog-analyzer (turned website access analyzer) 
-Aothors: David J. Barnes and Michael Kölling and Rachael Bielawa
+Authors: David J. Barnes and Michael Kölling and Rachael Bielawa
 
-This project *was* part of the material for chapter 4 of the book
+This project *was* part of the material for chapter 4 of the book:
 
    Objects First with Java - A Practical Introduction using BlueJ
    Sixth edition
@@ -9,7 +9,7 @@ This project *was* part of the material for chapter 4 of the book
    Pearson Education, 2016
 
 
-Purpose of project: To make a really cool final project for Object Oriented Programming. 
+Purpose of project: To transform an existing program and extend its abilities in order to build a rudimentary webscraper.
 
 The LogfileReader expects to read a file, weblog.txt,
 containing lines of data in the format:

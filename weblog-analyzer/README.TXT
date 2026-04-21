@@ -9,7 +9,7 @@ This project *was* part of the material for chapter 4 of the book:
    Pearson Education, 2016
 
 
-Purpose of project: To transform an existing program and extend its abilities in order to build a rudimentary webscraper.
+Purpose of project: To transform an existing program and extend its abilities in order to log web access information potentially as a basis for webscraping functionality. 
 
 The LogfileReader expects to read a file, weblog.txt,
 containing lines of data in the format:
